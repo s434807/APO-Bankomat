@@ -122,17 +122,20 @@ Wymagania specjalne:
 Wymagania technologiczne oraz ograniczenia na wprowadzane dane:
 ---------------------------------------------------------------
 
- 2a. ...
+ 1a. Karta wprowadzona do czytnika kart
 
- 2b. ...
+ 3a. PIN do karty, zostaje wprowdzony z klawiatury 
 
- 3a. ...
+ 4a. Kwota wprowadzana z klawiatury
+
+ 5a. Banknoty włożone w wyznaczonym miejscu
+
+ 8a. Wydrukowanie potwierdzenia na papierze (jeśli klient sobie tego życzy)
 
 Kwestie otwarte:
 ----------------
 
-  - ...
+  - Możliwosć sterowania głosem?
 
-  - ...
+  - Ekran dotykowy?
  
-  - ...
