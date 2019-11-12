@@ -45,6 +45,7 @@ Rozszerzenia (ścieżki alternatywne):
 ------------------------------------
 
  Błąd autentykacji:
+ -------------------------------
     1.	Brak komunikacji z systemem.
     2.	Brak komunikacji z bankiem użytkownika
     3.	Nieaktualna karta
@@ -60,6 +61,7 @@ Rozszerzenia (ścieżki alternatywne):
 
 
   Błędy z wypłatą:
+  ------------------------------
     1.	Bank nie zatwierdza wypłaty
     2.	Problemy z wysunięciem pieniędzy
     3.	Pieniądze zostawione w bankomacie przez klienta
